@@ -1,0 +1,18 @@
+[
+
+  {
+    "nom": "test",
+    "prenom": "test",
+    "age": 43,
+    "profession": "test",
+    "salaire": 24
+  },
+  {
+    "nom": "GUIRE",
+    "prenom": "Josue",
+    "age": 52,
+    "profession": "Développeur",
+    "salaire": 45
+  }
+  
+]

@@ -1,0 +1,23 @@
+<clients>
+    <client>
+        <nom>Doe</nom>
+        <prenom>John</prenom>
+        <age>30</age>
+        <profession>Ingénieur</profession>
+        <salaire>50000</salaire>
+    </client>
+    <client>
+        <nom>Smith</nom>
+        <prenom>Alice</prenom>
+        <age>25</age>
+        <profession>Designer</profession>
+        <salaire>40000</salaire>
+    </client>
+    <client>
+        <nom>Jones</nom>
+        <prenom>Michael</prenom>
+        <age>35</age>
+        <profession>Manager</profession>
+        <salaire>60000</salaire>
+    </client>
+</clients>
