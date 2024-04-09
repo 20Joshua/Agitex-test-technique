@@ -1,4 +1,4 @@
-#### Project Documenation ####
+#### Project Documentation ####
 
 # cd src/main/resources et docker-compose up -d pour démarrer les conteneurs docker
 NB : Toutes les requêtes doivent commencer par "/api" et le port local pour la connexion à la base de donnée est le 3308 
